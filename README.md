@@ -1,5 +1,11 @@
 ## 🚀 API Testing Automation - Cypress & Postman
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Quality%20Assurance-008080?style=for-the-badge&logo=checkmarx&logoColor=white" alt="QA" />
+</div>
+
 ## 📝 Sobre o Projeto
 Este projeto consiste na automação de testes de API para a Restful-API-Dev, utilizando o framework Cypress para a escrita de scripts em JavaScript e o Postman para validações manuais e coleções.
 
